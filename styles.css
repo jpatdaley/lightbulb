@@ -1,0 +1,28 @@
+.opening {
+    width: 400px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+img{
+    margin-left: 53px;
+}
+
+.closing{
+    margin-top: 18px;
+    margin-left: 50.5px;
+}
+
+button {
+    background-color: gray;
+    color: white;
+    border: solid 6px black;
+    width: 298px;
+    height: 70px;
+    font-size: 18px;
+}
+
+button:hover {
+    background-color: darkgray;
+    color: black;
+}
